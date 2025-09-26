@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lohran Costa
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Lohran Costa, tenho 20 anos e sou natural de João Pessoa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonada por tecnologia e em soluções de problemas que usem da mesma.
 ### 🤖 Linguagens e Tecnologias
